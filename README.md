@@ -6,6 +6,10 @@ This project contains a vulnerability assessment report conducted on a test web 
 - SQL Injection
 - Cross-Site Scripting (XSS)
 - No HTTPS
+  
+##Tools used:
+-Kali Linux
+-NMAP
 
 ## Author:
 M Harika
